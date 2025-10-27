@@ -1,5 +1,5 @@
 # SPI Slave with Single-Port RAM
-
+> **By:** Farah Haitham & Mohammed Yasser
 This project implements an SPI Slave module interfaced with a Single-Port Synchronous RAM using Verilog.
 It enables read and write operations via SPI communication, with the internal RAM serving as the storage for transferred data. The design ensures synchronous operation with the SPI clock while maintaining reliable data integrity between the communication and memory blocks.
 
